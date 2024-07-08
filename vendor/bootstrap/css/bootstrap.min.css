@@ -7745,7 +7745,8 @@ a.bg-dark:hover {
 }
 
 .p-3 {
-    padding: 1rem !important
+    /* padding: 1rem !important */
+    padding: 1rem 1rem 1rem 3rem !important;
 }
 
 .pt-3,

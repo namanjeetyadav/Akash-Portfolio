@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Poppins", sans-serif;
+    font-family: "math";
     font-weight: 300;
     /* text-transform: uppercase; */
     color: #343a40
@@ -35,12 +35,13 @@ h1 {
 
 h2 {
     font-size: 1.5rem
+    
 }
 
 .subheading {
     /* text-transform: uppercase; */
     font-weight: 500;
-    font-family: 'Saira Extra Condensed', serif;
+    font-family: "math";
     font-size: 0.85rem
 }
 
@@ -175,6 +176,7 @@ a:hover {
     padding: 5px;
     margin: 15px;
     font-size: 0.7rem;
+    font-family: "math";
 }
 
 .change-fontsize {
@@ -188,4 +190,15 @@ a:hover {
 
 .top-upper-para{
     font-family: math ;
+}
+
+
+.headind-bold{
+    font-weight: 600;
+    font-family: "poppins";
+    /* text-transform: uppercase; */
+}
+
+.important-link{
+    text-decoration: underline;
 }
