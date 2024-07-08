@@ -22,9 +22,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Saira Extra Condensed', serif;
-    font-weight: 700;
-    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    /* text-transform: uppercase; */
     color: #343a40
 }
 
@@ -38,10 +38,10 @@ h2 {
 }
 
 .subheading {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: 500;
     font-family: 'Saira Extra Condensed', serif;
-    font-size: 0.55rem
+    font-size: 0.85rem
 }
 
 .list-social-icons a {
@@ -180,4 +180,12 @@ a:hover {
 .change-fontsize {
     font-size: 0.65rem;
     font-style: italic;
+}
+
+.highlight-text{
+    font-weight: bold;
+}
+
+.top-upper-para{
+    font-family: math ;
 }
