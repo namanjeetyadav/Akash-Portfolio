@@ -202,3 +202,12 @@ a:hover {
 .important-link{
     text-decoration: underline;
 }
+
+.lqc-para-style{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.lqc-link-style{
+    color: blue;
+}
