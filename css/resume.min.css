@@ -174,8 +174,8 @@ a:hover {
 
 .relevant-course-list li {
     padding: 5px;
-    margin: 15px;
-    font-size: 0.7rem;
+    margin: 10px;
+    font-size: 0.99rem;
     font-family: "math";
 }
 
@@ -210,4 +210,8 @@ a:hover {
 
 .lqc-link-style{
     color: blue;
+}
+
+.lqc-ordered-list{
+
 }
